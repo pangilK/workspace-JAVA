@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;array.LottoProgram&apos; to &apos;LottoProgramExam&apos;&#x0D;&#x0A;- Original project: &apos;06_array&apos;&#x0D;&#x0A;- Original element: &apos;array.LottoProgram&apos;&#x0D;&#x0A;- Renamed element: &apos;array.LottoProgramExam&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LottoProgram&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;array{LottoProgram.java[LottoProgram" matchStrategy="1" name="LottoProgramExam" qualified="false" references="true" similarDeclarations="false" stamp="1681969649602" textual="false" version="1.0"/>
+</session>
